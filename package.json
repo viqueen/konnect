@@ -1,0 +1,23 @@
+{
+  "name": "konnect",
+  "version": "0.0.0",
+  "description": "atlassian connect koa server",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viqueen/konnect.git"
+  },
+  "keywords": [
+    "atlassian",
+    "connect",
+    "koa"
+  ],
+  "author": "Hasnae Rehioui <hrehioui@atlassian.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/viqueen/konnect/issues"
+  },
+  "homepage": "https://github.com/viqueen/konnect#readme"
+}
